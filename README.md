@@ -12,7 +12,7 @@ Trata-se de uma visual novel sobre a vida de um estudante que descobre um novo m
 
 | Nome | Função |
 |------|--------|
-| [Gabriel "Arroganz"](arroganz77.itch.io) | Game Designer, Programador principal, Diretor de Narrativa |
+| [Gabriel "Arroganz"](https://arroganz77.itch.io) | Game Designer, Programador principal, Diretor de Narrativa |
 | Cicero Anderson | Programador, Narrative Designer |
 | [Gabriel Vitória](https://itch.io/profile/gabriel-vitoria) | Programador |
 | Davi Oliveira | Programador |
